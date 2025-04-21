@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = 'AdMore adapter for Taku mediation.'
   s.description      = 'A lightweight .xcframework adapter to integrate AdMore with Taku mediation.'
   s.homepage         = 'https://github.com/luckylun/AdMoreTakuAdapter'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'MIT' }
   s.author           = { 'luckylun' => '598922488@qq.com' }
   s.source           = { :git => 'https://github.com/luckylun/AdMoreTakuAdapter.git', :tag => s.version.to_s }
 
